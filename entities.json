@@ -1,0 +1,738 @@
+{
+    "1":{
+        "Abraham Lincoln":[
+            "Abraham_Lincoln"
+        ],
+        "President":[
+            "President"
+        ],
+        "United States":[
+            "United_States"
+        ]
+    },
+    "2":{
+        "Lincoln":[
+            "Lincoln"
+        ],
+        "United States":[
+            "United_States"
+        ],
+        "Civil War":[
+            "Civil_War"
+        ]
+    },
+    "3":{
+        "Union":[
+            "Union"
+        ]
+    },
+    "4":{
+        "English Scientist":[
+            "English_Scientist"
+        ],
+        "Alan Turing":[
+            "Alan_Turing"
+        ],
+        "Alan Mathison Turing":[
+            "Alan_Mathison_Turing"
+        ],
+        "Maida Vale":[
+            "Maida_Vale"
+        ],
+        "London":[
+            "London"
+        ],
+        "England":[
+            "England"
+        ]
+    },
+    "5":{
+        "Theoretical Computer Science":[
+            "Theoretical_Computer_Science"
+        ],
+        "Turing Machine":[
+            "Turing Machine"
+        ]
+    },
+    "6":{
+        "Carmelo Anthony":[
+            "Carmelo_Anthony"
+        ],
+        "Miami Heat":[
+            "Miami_Heat"
+        ]
+    },
+    "7":{
+        "Undertaker":[
+            "Undertaker"
+        ],
+        "WWE":[
+            "WWE"
+        ],
+        "Legend":[
+            "Legend"
+        ],
+        "Texas":[
+            "Texas"
+        ]
+    },
+    "8":{
+        "Super Bowl":[
+            "Super_Bowl"
+        ],
+        "Ireland":[
+            "Ireland"
+        ],
+        "NFL":[
+            "NFL"
+        ]
+    },
+    "9":{
+        "Aaron Hernandez":[
+            "Aaron_Hernandez"
+        ],
+        "Prison":[
+            "Prison"
+        ],
+        "Hospital":[
+            "Hospital"
+        ]
+    },
+    "10":{
+        "Michael Jordan":[
+            "Michael_Jordan"
+        ],
+        "Jordan’s":[
+            "Jordan’s"
+        ]
+    },
+    "11":{
+        "Tony Romo":[
+            "Tony_Romo"
+        ],
+        "NFL":[
+            "NFL"
+        ],
+        "Teams":[
+            "Teams"
+        ]
+    },
+    "12":{
+        "Quarterback":[
+            "Quarterback"
+        ],
+        "Teams":[
+            "Teams"
+        ]
+    },
+    "13":{
+        "Mark Cuban":[
+            "Mark_Cuban"
+        ],
+        "Dallas Mavericks":[
+            "Dallas_Mavericks"
+        ]
+    },
+    "14":{
+        "Kevin Durant":[
+            "Kevin_Durant"
+        ],
+        "Golden State":[
+            "Golden_State"
+        ],
+        "Championship Parade":[
+            "Championship_Parade"
+        ]
+    },
+    "15":{
+        "Voters":[
+            "Voters"
+        ],
+        "Andrew Bogut":[
+            "Andrew Bogut"
+        ],
+        "NBA":[
+            "NBA"
+        ]
+    },
+    "16":{
+        "Joe Biden":[
+            "Joe_Biden"
+        ],
+        "Joseph Robinette Biden":[
+            "Joseph_Robinette_Biden"
+        ],
+        "Scranton, Pennsylvania, U.S.":[
+            "Scranton,_Pennsylvania"
+        ],
+        "United States":[
+            "United_States"
+        ],
+        "Pres. Barack Obama":[
+            "Barack_Obama"
+        ]
+    },
+    "17":{
+        "Joe Biden":[
+            "Joe_Biden"
+        ],
+        "New Castle county, Delaware":[
+            "New_Castle_County,_Delaware"
+        ],
+        "University of Delaware":[
+            "University_of_Delaware"
+        ],
+        "Syracuse University":[
+            "Syracuse_University_College_of_Law"
+        ]
+    },
+    "18":{
+        "Joe Biden":[
+            "Joe_Biden"
+        ]
+    },
+    "19":{
+        "Biden":[
+            "Joe_Biden"
+        ],
+        "Delaware attorney":[
+            "Delaware_lawyers"
+        ]
+    },
+    "20":{
+        "he":[
+            "Joe_Biden"
+        ],
+        "U.S. Senate":[
+            "United_States_Senate"
+        ]
+    },
+    "21":{
+        "Mark Zuckerberg":[
+            "Mark_Zuckerberg"
+        ],
+        "David Rockefeller":[
+            "David_Rockefeller"
+        ]
+    },
+    "22":{
+        "his":[
+            "Mark_Zuckerberg"
+        ],
+        "Hank Greenberg":[
+            "Maurice_R._Greenberg"
+        ]
+    },
+    "23":{
+        "he":[
+            "Mark_Zuckerberg"
+        ],
+        "David Rockefeller":[
+            "David_Rockefeller_Jr."
+        ]
+    },
+    "24":{
+        "he":[
+            "Theodore_Roosevelt"
+        ],
+        "President William McKinley":[
+            "William_McKinley"
+        ]
+    },
+    "25":{
+        "Theodore":[
+            "Theodore_Roosevelt"
+        ],
+        "Harvard University":[
+            "Harvard_College"
+        ],
+        "Columbia":[
+            "Columbia_Law_School"
+        ]
+    },
+    "26":{
+        "Jackson":[
+            "Andrew_Jackson"
+        ],
+        "U.S. House of Representatives":[
+            "United_States_House_of_Representatives"
+        ]
+    },
+    "27":{
+        "He":[
+            "Andrew_Jackson"
+        ],
+        "Senator":[
+            "United_States_Senate"
+        ]
+    },
+    "28":{
+        "Ford":[
+            "Gerald_Ford"
+        ],
+        "vice president":[
+            "Vice_President_of_the_United_States"
+        ]
+    },
+    "29":{
+        "Gerald Ford":[
+            "Gerald_Ford"
+        ],
+        "Nebraska":[
+            "Omaha,_Nebraska"
+        ]
+    },
+    "30":{
+        "he":[
+            "Gerald_Ford"
+        ],
+        "Yale":[
+            "Yale_Law_School"
+        ]
+    },
+    "31":{
+        "Adam Sandler":[
+            "adam_sandler"
+        ],
+        "Comedian":[
+            "comedian"
+        ],
+        "US Actor":[
+            "us_actor"
+        ]
+    },
+    "32":{
+        "Ken Starr":[
+            "ken_starr"
+        ],
+        "lead prosecutor":[
+            "lead_prosecutor"
+        ],
+        "congress":[
+            "congress"
+        ],
+        "Bill Clinton":[
+            "bill_clinton"
+        ],
+        "Washington DC":[
+            "washington_dc"
+        ]
+    },
+    "33":{
+        "Plane Crash":[
+            "plane_crash"
+        ]
+    },
+    "34":{
+        "NBC":[
+            "NBC"
+        ],
+        "Megyn Kelly":[
+            "megyn_kelly"
+        ]
+    },
+    "35":{
+        "Sundar Pichai":[
+            "sundar_pichai"
+        ],
+        "Google":[
+            "google"
+        ],
+        "CEO":[
+            "CEO"
+        ]
+    },
+    "36":{
+        "Lionel Messi":[
+            "lionel_messi"
+        ],
+        "Defender":[
+            "defender"
+        ],
+        "FC Barcelona":[
+            "fc_barcelona"
+        ]
+    },
+    "37":{
+        "Aaron Cresswell":[
+            "aaron_cresswell"
+        ],
+        "West Ham United":[
+            "west_ham_united"
+        ],
+        "Arsenal FC":[
+            "arsenal_fc"
+        ]
+    },
+    "38":{
+        "Bruce Lee":[
+            "bruce_lee"
+        ],
+        "Enter The Dragon":[
+            "enter_the_dragon"
+        ]
+    },
+    "39":{
+        "Musican":[
+            "musican"
+        ],
+        "Actor":[
+            "actor"
+        ],
+        "Jack Black":[
+            "jack_black"
+        ],
+        "Avator":[
+            "avator"
+        ]
+    },
+    "40":{
+        "Tom Hanks":[
+            "tom_hanks"
+        ],
+        "Harvard":[
+            "harvard"
+        ],
+        "Colin":[
+            "colin_hanks"
+        ]
+    },
+    "41":{
+        "Gorillaz":[
+            "gorillaz"
+        ],
+        "Record Label":[
+            "record_label"
+        ],
+        "Aftermath Music":[
+            "aftermath_music"
+        ]
+    },
+    "42":{
+        "Moana":[
+            "moana"
+        ],
+        "movie":[
+            "movie"
+        ],
+        "Dwayne Johnson":[
+            "dwayne_johnson"
+        ],
+        "Polynesian":[
+            "polynesian"
+        ]
+    },
+    "43":{
+        "Disney":[
+            "disney"
+        ],
+        "Twitch.tv":[
+            "twitch.tv"
+        ]
+    },
+    "44":{
+        "John Lennon":[
+            "john_lennon"
+        ]
+    },
+    "45":{
+        "Reddit":[
+            "reddit"
+        ],
+        "Larry Page":[
+            "larry_page"
+        ]
+    },
+    "46":{
+        "Arizona":[
+            "Arizona"
+        ]
+    },
+    "47":{
+        "Barry Goldwater":[
+            "Barry_Goldwater"
+        ],
+        "Arizona":[
+            "Arizona"
+        ]
+    },
+    "48":{
+        "George R.R Martin":[
+            "George_R._R._Martin"
+        ],
+        "A Song of Ice and Fire":[
+            "A_Song_of_Ice_and_Fire"
+        ]
+    },
+    "49":{
+        "He":[
+            "George_R._R._Martin"
+        ],
+        "New Jersey":[
+            "New_Jersey"
+        ],
+        "Science Fiction":[
+            "Science_Fiction"
+        ],
+        "Fantasy":[
+            "Fantasy"
+        ]
+    },
+    "50":{
+        "Martin":[
+            "George_R._R._Martin"
+        ]
+    },
+    "51":{
+        "George":[
+            "George_R._R._Martin"
+        ],
+        "Northwestern University":[
+            "Northwestern_University"
+        ],
+        "Evanston":[
+            "Illinois",
+            "Evanston"
+        ],
+        "Illinois":[
+            "Illinois"
+        ],
+        "B.S.":[
+            "Bachelor_of_Science"
+        ],
+        "M.S.":[
+            "Master_of_Science"
+        ]
+    },
+    "52":{
+        "Sheryl Sandberg":[
+            "Sheryl_Sandberg"
+        ],
+        "Washington":[
+            "Washington,_D.C."
+        ]
+    },
+    "53":{
+        "Republicans":[
+            "Republican_Party_(United_States)"
+        ],
+        "Democrats":[
+            "Democratic_Party_(United_States)"
+        ],
+        "Sandberg":[
+            "Sheryl_Sandberg"
+        ],
+        "Silicon Valley":[
+            "Silicon_Valley"
+        ],
+        "Google":[
+            "Google"
+        ]
+    },
+    "54":{
+        "She":[
+            "Sheryl_Sandberg"
+        ],
+        "Facebook":[
+            "Facebook"
+        ],
+        "COO":[
+            "Chief_operating_officer"
+        ]
+    },
+    "55":{
+        "Sandberg":[
+            "Sheryl_Sandberg"
+        ],
+        "Washington":[
+            "Washington,_D.C."
+        ],
+        "Lean In":[
+            "Lean_In"
+        ]
+    },
+    "56":{
+        "South Africa":[
+            "South_Africa"
+        ],
+        "Elon Musk":[
+            "Elon_Musk"
+        ],
+        "multimillionare":[
+            "millionare"
+        ],
+        "Compaq Computers":[
+            "Compaq_Computers"
+        ]
+    },
+    "57":{
+        "He":[
+            "Elon_Musk"
+        ],
+        "SpaceX":[
+            "SpaceX"
+        ],
+        "Tesla Motors":[
+            "Tesla_Motors"
+        ]
+    },
+    "58":{
+        "Musk":[
+            "Elon_Musk"
+        ],
+        "SpaceX":[
+            "SpaceX"
+        ],
+        "International Space Station":[
+            "International_Space_Station"
+        ]
+    },
+    "59":{
+        "he":[
+            "Elon_Musk"
+        ],
+        "Canada":[
+            "Canada"
+        ],
+        "University of Pennsylvania":[
+            "Unniversity_of_Pennsylvania"
+        ]
+    },
+    "60":{
+        "Elon":[
+            "Elon_Musk"
+        ],
+        "Hyperloop":[
+            "Hyperloop"
+        ]
+    },
+    "61":{
+        "Hyde Park, New York":[
+            "Hyde_Park,_New_York"
+        ],
+        "Franklin D. Roosevelt":[
+            "Franklin_D._Roosevelt"
+        ],
+        "polio":[
+            "Poliomyelitis"
+        ]
+    },
+    "62":{
+        "Franklin D. Roosevelt":[
+            "Franklin_D._Roosevelt"
+        ],
+        "32nd U.S. president":[
+            "President_of_the_United_States"
+        ]
+    },
+    "63":{
+        "Franklin D. Roosevelt":[
+            "Franklin_D._Roosevelt"
+        ],
+        "Georgia":[
+            "Georgia"
+        ]
+    },
+    "64":{
+        "David Rockefeller":[
+            "David_Rockefeller"
+        ],
+        "John D. Rockefeller":[
+            "John_D._Rockefeller"
+        ],
+        "America":[
+            "United_States"
+        ]
+    },
+    "65":{
+        "David Rockefeller":[
+            "David_Rockefeller"
+        ],
+        "U.S. President":[
+            "President_of_the_United_States"
+        ],
+        "Federal Reserve chairman":[
+            "<Federal_Reserve_chairman>"
+        ],
+        "Secretary of the Treasury":[
+            "<Secretary_of_the_Treasury>"
+        ]
+    },
+    "66":{
+        "David Rockefeller":[
+            "David_Rockefeller"
+        ],
+        "Chase Manhattan Bank":[
+            "JPMorgan_Chase"
+        ]
+    },
+    "67":{
+        "Corey Lewandowski":[
+            "<Corey_Lewandowski>"
+        ],
+        "Donald Trump":[
+            "Donald_Trump"
+        ]
+    },
+    "68":{
+        "Hillary Clinton":[
+            "Hillary_Clinton"
+        ],
+        "Democratic candidate for President":[
+            "<Democratic_candidate_for_President>"
+        ]
+    },
+    "69":{
+        "Angelina Jolie":[
+            "Angelina_Jolie"
+        ],
+        "Brad Pitt":[
+            "Brad_Pitt"
+        ]
+    },
+    "70":{
+        "Donald Trump":[
+            "Donald_Trump"
+        ],
+        "President of the United States":[
+            "President_of_the_United_States"
+        ]
+    },
+    "71":{
+        "Texas":[
+            "Texas"
+        ]
+    },
+    "72":{
+        "Sen. Dianne Feinstein":[
+            "Dianne_Feinstein"
+        ],
+        "Senate Select Committee on Intelligence":[
+            "<Senate_Select_Committee_on_Intelligence>"
+        ]
+    },
+    "73":{
+        "Houston":[
+            "Houston"
+        ],
+        "most diverse city in America":[
+            "<most_diverse_city_in_America>"
+        ]
+    },
+    "74":{
+        "President":[
+            "President_of_the_United_States"
+        ],
+        "Ukrainian Deputy Prime Minister Volodymyr Groysman":[
+            "Volodymyr_Groysman"
+        ]
+    },
+    "75":{
+        "Mary Landrieu":[
+            "Mary_Landrieu"
+        ],
+        "BP":[
+            "BP"
+        ]
+    }
+}
